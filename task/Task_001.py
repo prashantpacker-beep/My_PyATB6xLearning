@@ -1,0 +1,1 @@
+print("Prashant","prapti","143",sep="*",end="_")

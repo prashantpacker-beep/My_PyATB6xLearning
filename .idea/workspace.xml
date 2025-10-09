@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB6xLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_01_Python_Basics/Lab001_Python_Hello.py" afterDir="false" />
+    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="New Files are added">
+      <change afterPath="$PROJECT_DIR$/Src/ex_01_Python_Basics/Lab002_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_01_Python_Basics/Lab003_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables/Lab_004_Keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables/Lab_005_Variable_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables/Lab_006_Identifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Task_001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +28,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prashantpacker-beep"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prashantpacker-beep/My_PyATB6xLearning.git",
+    "accountId": "c1a72ac7-058e-4685-a501-67cc5c4f73d1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="33ifeS5rWl1bsbfVblvrReb7K74" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +55,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Lab001_Python_Hello.executor": "Run",
+    "Python.Lab002_comment.executor": "Run",
+    "Python.Lab003_print.executor": "Run",
+    "Python.Lab_004_Keywords.executor": "Run",
+    "Python.Lab_005_Variable_Part1.executor": "Run",
+    "Python.Lab_006_Identifier.executor": "Run",
+    "Python.Task_001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -70,14 +91,33 @@
       <workItem from="1759804933682" duration="1294000" />
       <workItem from="1759857272464" duration="2591000" />
       <workItem from="1759908276837" duration="776000" />
-      <workItem from="1759972837718" duration="5475000" />
+      <workItem from="1759972837718" duration="12277000" />
     </task>
+    <task id="LOCAL-00001" summary="New Files are added">
+      <option name="closed" value="true" />
+      <created>1760016880288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760016880288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Files are added" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_004_Keywords.coverage" NAME="Lab_004_Keywords Coverage Results" MODIFIED="1760024764549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_005_Variable_Part1.coverage" NAME="Lab_005_Variable_Part1 Coverage Results" MODIFIED="1760025855577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab003_print.coverage" NAME="Lab003_print Coverage Results" MODIFIED="1760023358410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_01_Python_Basics" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab001_Python_Hello.coverage" NAME="Lab001_Python_Hello Coverage Results" MODIFIED="1760016486467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_01_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab002_comment.coverage" NAME="Lab002_comment Coverage Results" MODIFIED="1760021070630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_01_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_006_Identifier.coverage" NAME="Lab_006_Identifier Coverage Results" MODIFIED="1760026233291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_001.coverage" NAME="Task_001 Coverage Results" MODIFIED="1760023507842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
   </component>
 </project>
