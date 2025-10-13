@@ -6,3 +6,4 @@
 print("Hello\nword")
 print("Hello\tword")
 print("Hello\bword")
+print("Hello\rword")
