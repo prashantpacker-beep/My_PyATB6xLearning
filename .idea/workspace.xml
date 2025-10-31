@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="28th Oct 2025--New files are added">
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/LabQ01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/LabQ02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/LabQ03_Real_Example of functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_060_Bilt_in_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_061_Example _Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_062_Example_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_063_Functions_Parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_064_Type 3_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_065_Function_Defaut_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_066_Function_Return_Multiple_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_067_Keyword_argument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Tas_016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Task_017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="30th Oct 2025--New files are added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +195,7 @@
       <workItem from="1761047837650" duration="9476000" />
       <workItem from="1761750377291" duration="11086000" />
       <workItem from="1761788397665" duration="1451000" />
-      <workItem from="1761937492306" duration="6281000" />
+      <workItem from="1761937492306" duration="6326000" />
     </task>
     <task id="LOCAL-00001" summary="New Files are added">
       <option name="closed" value="true" />
@@ -284,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761763619089</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="30th Oct 2025--New files are added">
+      <option name="closed" value="true" />
+      <created>1761943862435</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761943862435</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,7 +302,8 @@
     <MESSAGE value="16th Oct 2025--New files are added" />
     <MESSAGE value="18th Oct 2025--New files are added" />
     <MESSAGE value="28th Oct 2025--New files are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="28th Oct 2025--New files are added" />
+    <MESSAGE value="30th Oct 2025--New files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="30th Oct 2025--New files are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
