@@ -4,22 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="30th Oct 2025--New files are added">
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_068_User_input_Pass_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_069_Finction_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_070_Function_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_072_infinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_08_Functions/Lab_073_Real_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_09_Function_scopes/Lab075_local_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_09_Function_scopes/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_09_Function_scopes/Lab077_Local_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_09_Function_scopes/Lab078_Inner_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_09_Function_scopes/python_dir/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Task_018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Task_019.py" afterDir="false" />
+    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="1 Nov 2025--New files are added">
+      <change afterPath="$PROJECT_DIR$/Src/ex_10_Decorators/LabTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10_Decorators/Lab_079_Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10_Decorators/Lab_080_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10_Decorators/Lab_081_without_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10_Decorators/Lab_082_Real_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10_Decorators/Lab_083_Decor_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/ex_10_Decorators/Lab_084_Leap_year.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Task_015.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Task_015.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,142 +52,176 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.LAb_036Operators_comparisons.executor": "Run",
-    "Python.Lab001_Python_Hello.executor": "Run",
-    "Python.Lab002_comment.executor": "Run",
-    "Python.Lab003_print.executor": "Run",
-    "Python.Lab068_User_input_Pass_Function.executor": "Run",
-    "Python.Lab075_local_variable.executor": "Run",
-    "Python.Lab076.executor": "Run",
-    "Python.Lab077_Local_var.executor": "Run",
-    "Python.Lab078_Inner_function.executor": "Run",
-    "Python.LabQ01.executor": "Run",
-    "Python.LabQ02.executor": "Run",
-    "Python.LabQ03_Real_Example of functions.executor": "Run",
-    "Python.LabWhile.executor": "Run",
-    "Python.Lab_0040_User_input_Ternary_operator.executor": "Run",
-    "Python.Lab_004_Keywords.executor": "Run",
-    "Python.Lab_005_Variable_Part1.executor": "Run",
-    "Python.Lab_006_Identifier.executor": "Run",
-    "Python.Lab_007_Variables_Names.executor": "Run",
-    "Python.Lab_008_Dynamically_typed.executor": "Run",
-    "Python.Lab_009_Identifier_Rule.executor": "Run",
-    "Python.Lab_010_Math.executor": "Run",
-    "Python.Lab_011_IQ_BODMAS.executor": "Run",
-    "Python.Lab_012_Multiple_Variables.executor": "Run",
-    "Python.Lab_013_Multiple_prints.executor": "Run",
-    "Python.Lab_014_Math_functions.executor": "Run",
-    "Python.Lab_015_iQ.executor": "Run",
-    "Python.Lab_016_Literals.executor": "Run",
-    "Python.Lab_017_Multicomments.executor": "Run",
-    "Python.Lab_018_Multicomments.executor": "Run",
-    "Python.Lab_019_Data_Types.executor": "Run",
-    "Python.Lab_020_Builtin_function.executor": "Run",
-    "Python.Lab_021_userinput.executor": "Run",
-    "Python.Lab_022_User_Input_Sum_of_two_numbers.executor": "Run",
-    "Python.Lab_023_Strings.executor": "Run",
-    "Python.Lab_024_Strings_Conversion.executor": "Run",
-    "Python.Lab_025_Strings.executor": "Run",
-    "Python.Lab_026_Escap_char.executor": "Run",
-    "Python.Lab_027_String_Single_Double_diff.executor": "Run",
-    "Python.Lab_028_Task1.executor": "Run",
-    "Python.Lab_029_Task2.executor": "Run",
-    "Python.Lab_031_Arth_op.executor": "Run",
-    "Python.Lab_031_Operators.executor": "Run",
-    "Python.Lab_031_unary_operator.executor": "Run",
-    "Python.Lab_032_Comparison_operator.executor": "Run",
-    "Python.Lab_033_logic_operators.executor": "Run",
-    "Python.Lab_034_Operators_P2.executor": "Run",
-    "Python.Lab_035_operators_P4.executor": "Run",
-    "Python.Lab_037_operators_logical.executor": "Run",
-    "Python.Lab_038_operators_examples.executor": "Run",
-    "Python.Lab_040_Ternary_Operators.executor": "Run",
-    "Python.Lab_040_operator_P9.executor": "Run",
-    "Python.Lab_041_Membership_Operator.executor": "Run",
-    "Python.Lab_042_Identity_operators.executor": "Run",
-    "Python.Lab_043_Conditions_optimize.executor": "Run",
-    "Python.Lab_043_If_condition.executor": "Run",
-    "Python.Lab_044_Nested_ElseIf.executor": "Run",
-    "Python.Lab_044_Nested_If_ElseIf.executor": "Run",
-    "Python.Lab_045_If_Else_Condition.executor": "Run",
-    "Python.Lab_046_If_else_elsif.executor": "Run",
-    "Python.Lab_047_Grade_Calculation.executor": "Run",
-    "Python.Lab_048_Loop.executor": "Run",
-    "Python.Lab_049_For_Loop.executor": "Run",
-    "Python.Lab_050_For_Loops.executor": "Run",
-    "Python.Lab_051_IQ.executor": "Run",
-    "Python.Lab_052_IQ02.executor": "Run",
-    "Python.Lab_053_while.executor": "Run",
-    "Python.Lab_054_for_while_IQ.executor": "Run",
-    "Python.Lab_055_For_Break.executor": "Run",
-    "Python.Lab_056_IQ.executor": "Run",
-    "Python.Lab_057_Pass_Break.executor": "Run",
-    "Python.Lab_058_IQ.executor": "Run",
-    "Python.Lab_059_Odd_IQ.executor": "Run",
-    "Python.Lab_060_Bilt_in_Function.executor": "Run",
-    "Python.Lab_061_Example _Function.executor": "Run",
-    "Python.Lab_062_Example_Function.executor": "Run",
-    "Python.Lab_063_Functions_Parameters.executor": "Run",
-    "Python.Lab_064_Type 3_Example.executor": "Run",
-    "Python.Lab_065_Function_Defaut_parameter.executor": "Run",
-    "Python.Lab_066_Function_Return_Multiple_Values.executor": "Run",
-    "Python.Lab_067_Keyword_argument.executor": "Run",
-    "Python.Lab_070_Function_IQ.executor": "Run",
-    "Python.Lab_071_IQ.executor": "Run",
-    "Python.Lab_072_infinite_Args.executor": "Run",
-    "Python.Lab_073_Real_Args.executor": "Run",
-    "Python.Lab_Match_002.executor": "Debug",
-    "Python.Lab_o39_Operators_P8.executor": "Run",
-    "Python.Lab_pass_vs_Contnue_059.executor": "Run",
-    "Python.Lab_switch_001.executor": "Run",
-    "Python.Lab_while_vs_for_loop.executor": "Run",
-    "Python.Labfor usedRealLife.executor": "Run",
-    "Python.LabforReverse.executor": "Run",
-    "Python.Tas_016.executor": "Run",
-    "Python.Task_001.executor": "Run",
-    "Python.Task_002.executor": "Run",
-    "Python.Task_003.executor": "Run",
-    "Python.Task_004.executor": "Run",
-    "Python.Task_005.executor": "Run",
-    "Python.Task_006.executor": "Run",
-    "Python.Task_007.executor": "Run",
-    "Python.Task_008.executor": "Run",
-    "Python.Task_009.executor": "Run",
-    "Python.Task_010.executor": "Run",
-    "Python.Task_011_Fizzbuzz.executor": "Run",
-    "Python.Task_012.executor": "Run",
-    "Python.Task_014.executor": "Run",
-    "Python.Task_015.executor": "Run",
-    "Python.Task_017.executor": "Run",
-    "Python.Task_018.executor": "Run",
-    "Python.Task_13.executor": "Run",
-    "Python.task_012.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.LAb_036Operators_comparisons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068_User_input_Pass_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075_local_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077_Local_var.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078_Inner_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabQ01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabQ02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabQ03_Real_Example of functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabTime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_0040_User_input_Ternary_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_004_Keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_005_Variable_Part1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_006_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_007_Variables_Names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_008_Dynamically_typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_009_Identifier_Rule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_010_Math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_011_IQ_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_012_Multiple_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_013_Multiple_prints.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_014_Math_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_015_iQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_016_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_017_Multicomments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_018_Multicomments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_019_Data_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_020_Builtin_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_021_userinput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_022_User_Input_Sum_of_two_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_023_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_024_Strings_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_025_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_026_Escap_char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_027_String_Single_Double_diff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_028_Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_029_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_031_Arth_op.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_031_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_031_unary_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_032_Comparison_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_033_logic_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_034_Operators_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_035_operators_P4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_037_operators_logical.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_038_operators_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_040_Ternary_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_040_operator_P9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_041_Membership_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_042_Identity_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_043_Conditions_optimize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_043_If_condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_044_Nested_ElseIf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_044_Nested_If_ElseIf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_045_If_Else_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_046_If_else_elsif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_047_Grade_Calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_048_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_049_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_050_For_Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_051_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_052_IQ02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_053_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_054_for_while_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_055_For_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_056_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_057_Pass_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_058_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_059_Odd_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_060_Bilt_in_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_061_Example _Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_062_Example_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_063_Functions_Parameters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_064_Type 3_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_065_Function_Defaut_parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_066_Function_Return_Multiple_Values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_067_Keyword_argument.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_070_Function_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_071_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_072_infinite_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_073_Real_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_079_Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_080_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_081_without_decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_082_Real_Decor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_083_Decor_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_084_Leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_084_Leapyear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_Match_002.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab_o39_Operators_P8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_pass_vs_Contnue_059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_switch_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_while_vs_for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Labfor usedRealLife.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabforReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tas_016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_011_Fizzbuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_012.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\prashant.kavinkar\PycharmProjects\PyATB6xLearning\Src\ex_07_Loops\For" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Lab_084_Leap_year" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/ex_10_Decorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/ex_10_Decorators/Lab_084_Leap_year.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
-        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -222,7 +249,17 @@
       <workItem from="1761750377291" duration="11086000" />
       <workItem from="1761788397665" duration="1451000" />
       <workItem from="1761937492306" duration="6326000" />
-      <workItem from="1762181583002" duration="10993000" />
+      <workItem from="1762181583002" duration="11348000" />
+      <workItem from="1762364685340" duration="366000" />
+      <workItem from="1762365794574" duration="3414000" />
+      <workItem from="1762369320111" duration="13000" />
+      <workItem from="1762369403585" duration="50000" />
+      <workItem from="1762369471748" duration="13000" />
+      <workItem from="1762370602805" duration="94000" />
+      <workItem from="1762370717486" duration="8000" />
+      <workItem from="1762370743653" duration="163000" />
+      <workItem from="1762370992568" duration="3831000" />
+      <workItem from="1762449027346" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="New Files are added">
       <option name="closed" value="true" />
@@ -304,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761943862435</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1 Nov 2025--New files are added">
+      <option name="closed" value="true" />
+      <created>1762193699784</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762193699784</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,7 +375,8 @@
     <MESSAGE value="18th Oct 2025--New files are added" />
     <MESSAGE value="28th Oct 2025--New files are added" />
     <MESSAGE value="30th Oct 2025--New files are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="30th Oct 2025--New files are added" />
+    <MESSAGE value="1 Nov 2025--New files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 Nov 2025--New files are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -354,10 +400,12 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_043_Conditions_optimize.coverage" NAME="Lab_043_Conditions_optimize Coverage Results" MODIFIED="1760723032573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_05_Conditiond_and_Loops" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_004.coverage" NAME="Task_004 Coverage Results" MODIFIED="1760557754547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_017_Multicomments.coverage" NAME="Lab_017_Multicomments Coverage Results" MODIFIED="1760367751832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_081_without_decorators.coverage" NAME="Lab_081_without_decorators Coverage Results" MODIFIED="1762367493955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_10_Decorators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_switch_001.coverage" NAME="Lab_switch_001 Coverage Results" MODIFIED="1761044088349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_06_Switch_Match" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_040_operator_P9.coverage" NAME="Lab_040_operator_P9 Coverage Results" MODIFIED="1760552922265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_04_Operator" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab078_Inner_function.coverage" NAME="Lab078_Inner_function Coverage Results" MODIFIED="1762190259927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_09_Function_scopes" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_067_Keyword_argument.coverage" NAME="Lab_067_Keyword_argument Coverage Results" MODIFIED="1761941348914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_019.coverage" NAME="Task_019 Coverage Results" MODIFIED="1762193664719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_023_Strings.coverage" NAME="Lab_023_Strings Coverage Results" MODIFIED="1760371412290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_037_operators_logical.coverage" NAME="Lab_037_operators_logical Coverage Results" MODIFIED="1760552005632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_04_Operator" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_040_Ternary_Operators.coverage" NAME="Lab_040_Ternary_Operators Coverage Results" MODIFIED="1760554057320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_04_Operator" />
@@ -370,10 +418,12 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_025_Strings.coverage" NAME="Lab_025_Strings Coverage Results" MODIFIED="1760372157302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_056_IQ.coverage" NAME="Lab_056_IQ Coverage Results" MODIFIED="1761754329287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_011_Fizzbuzz.coverage" NAME="Task_011_Fizzbuzz Coverage Results" MODIFIED="1761760358226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_082_Real_Decor.coverage" NAME="Lab_082_Real_Decor Coverage Results" MODIFIED="1762368519551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_10_Decorators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_044_Nested_ElseIf.coverage" NAME="Lab_044_Nested_ElseIf Coverage Results" MODIFIED="1760725033005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_05_Conditiond_and_Loops" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_071_IQ.coverage" NAME="Lab_071_IQ Coverage Results" MODIFIED="1762185627558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_051_IQ.coverage" NAME="Lab_051_IQ Coverage Results" MODIFIED="1761048659325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_012.coverage" NAME="Task_012 Coverage Results" MODIFIED="1761760906104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_079_Decorators.coverage" NAME="Lab_079_Decorators Coverage Results" MODIFIED="1762366753200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_10_Decorators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_020_Builtin_function.coverage" NAME="Lab_020_Builtin_function Coverage Results" MODIFIED="1760369681793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_054_for_while_IQ.coverage" NAME="Lab_054_for_while_IQ Coverage Results" MODIFIED="1761753738046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_058_IQ.coverage" NAME="Lab_058_IQ Coverage Results" MODIFIED="1761755088789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops" />
@@ -383,6 +433,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_008_Dynamically_typed.coverage" NAME="Lab_008_Dynamically_typed Coverage Results" MODIFIED="1760364878605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_057_Pass_Break.coverage" NAME="Lab_057_Pass_Break Coverage Results" MODIFIED="1761754935205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_047_Grade_Calculation.coverage" NAME="Lab_047_Grade_Calculation Coverage Results" MODIFIED="1761752879924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_05_Conditiond_and_Loops" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_084_Leap_year.coverage" NAME="Lab_084_Leap_year Coverage Results" MODIFIED="1762408880891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_10_Decorators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_014.coverage" NAME="Task_014 Coverage Results" MODIFIED="1761761535043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_017.coverage" NAME="Task_017 Coverage Results" MODIFIED="1761943821048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_031_unary_operator.coverage" NAME="Lab_031_unary_operator Coverage Results" MODIFIED="1760550311812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_04_Operator" />
@@ -397,6 +448,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_022_User_Input_Sum_of_two_numbers.coverage" NAME="Lab_022_User_Input_Sum_of_two_numbers Coverage Results" MODIFIED="1760370934069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_001.coverage" NAME="Task_001 Coverage Results" MODIFIED="1760023507842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_038_operators_examples.coverage" NAME="Lab_038_operators_examples Coverage Results" MODIFIED="1760552247226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_04_Operator" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_080_Decor.coverage" NAME="Lab_080_Decor Coverage Results" MODIFIED="1762367073772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_10_Decorators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_064_Type_3_Example.coverage" NAME="Lab_064_Type 3_Example Coverage Results" MODIFIED="1761940025283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_012_Multiple_Variables.coverage" NAME="Lab_012_Multiple_Variables Coverage Results" MODIFIED="1760366341320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_066_Function_Return_Multiple_Values.coverage" NAME="Lab_066_Function_Return_Multiple_Values Coverage Results" MODIFIED="1761940808524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
@@ -419,6 +471,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_004_Keywords.coverage" NAME="Lab_004_Keywords Coverage Results" MODIFIED="1760024764549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_016_Literals.coverage" NAME="Lab_016_Literals Coverage Results" MODIFIED="1760367537867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_while_vs_for_loop.coverage" NAME="Lab_while_vs_for_loop Coverage Results" MODIFIED="1761050532824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops/While" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$LabTime.coverage" NAME="LabTime Coverage Results" MODIFIED="1762369234220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_10_Decorators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_024_Strings_Conversion.coverage" NAME="Lab_024_Strings_Conversion Coverage Results" MODIFIED="1760371837260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_005_Variable_Part1.coverage" NAME="Lab_005_Variable_Part1 Coverage Results" MODIFIED="1760025855577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_0040_User_input_Ternary_operator.coverage" NAME="Lab_0040_User_input_Ternary_operator Coverage Results" MODIFIED="1760554834633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_04_Operator" />
@@ -454,6 +507,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab076.coverage" NAME="Lab076 Coverage Results" MODIFIED="1762189295253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_09_Function_scopes" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_pass_vs_Contnue_059.coverage" NAME="Lab_pass_vs_Contnue_059 Coverage Results" MODIFIED="1761759213187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops/Pass_vs_Continue" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabQ02.coverage" NAME="LabQ02 Coverage Results" MODIFIED="1761941609884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_083_Decor_2.coverage" NAME="Lab_083_Decor_2 Coverage Results" MODIFIED="1762369139381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_10_Decorators" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_009_Identifier_Rule.coverage" NAME="Lab_009_Identifier_Rule Coverage Results" MODIFIED="1760365112563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_006_Identifier.coverage" NAME="Lab_006_Identifier Coverage Results" MODIFIED="1760026233291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabQ03_Real_Example_of_functions.coverage" NAME="LabQ03_Real_Example of functions Coverage Results" MODIFIED="1761942716970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
