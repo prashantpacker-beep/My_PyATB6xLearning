@@ -10,7 +10,7 @@ class Person:
     address= None
     #behaviour
     def talk(self):    #self will be first argument in every method
-         print("I acn Talk")
+         print("I can Talk")
 
     def sleep(self,name):     # arg with no return
         print("I am sleeping")
