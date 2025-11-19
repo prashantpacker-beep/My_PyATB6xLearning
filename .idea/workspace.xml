@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="13th Nov 2025--New files are added">
+    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="18th Nov 2025--New files are added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_127_Encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_128_Encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_129_Encap_ENV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_129_Encap_Ft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_130_Ecap_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_131_Encap_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_132_Encap_Personal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/04_Encapsulation/Lab_public_private_protected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/05_Inheritance/Lab_133_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/Task_025_Inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/ex_17_Dictionary/Lab_106_Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/ex_17_Dictionary/Lab_106_Dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/Task_020_Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/Task_020_Triangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -341,7 +331,7 @@
       <workItem from="1763043023564" duration="8422000" />
       <workItem from="1763137346654" duration="8364000" />
       <workItem from="1763171200901" duration="2503000" />
-      <workItem from="1763572000107" duration="10028000" />
+      <workItem from="1763572000107" duration="10919000" />
     </task>
     <task id="LOCAL-00001" summary="New Files are added">
       <option name="closed" value="true" />
@@ -479,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763145821773</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="18th Nov 2025--New files are added">
+      <option name="closed" value="true" />
+      <created>1763582356954</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1763582356954</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +509,8 @@
     <MESSAGE value="8th Nov 2025--New files are added" />
     <MESSAGE value="11th Nov 2025--New files are added" />
     <MESSAGE value="13th Nov 2025--New files are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="13th Nov 2025--New files are added" />
+    <MESSAGE value="18th Nov 2025--New files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th Nov 2025--New files are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,7 +626,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_059_Odd_IQ.coverage" NAME="Lab_059_Odd_IQ Coverage Results" MODIFIED="1761758239510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_014_Math_functions.coverage" NAME="Lab_014_Math_functions Coverage Results" MODIFIED="1760366916919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_02_Keywords_Identifiers_Variables" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_048_Loop.coverage" NAME="Lab_048_Loop Coverage Results" MODIFIED="1761046027272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_07_Loops" />
-    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_133_Inheritance.coverage" NAME="Lab_133_Inheritance Coverage Results" MODIFIED="1763582141067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_18_OOps_Python/05_Inheritance" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_133_Inheritance.coverage" NAME="Lab_133_Inheritance Coverage Results" MODIFIED="1763582280427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_18_OOps_Python/05_Inheritance" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab075_local_variable.coverage" NAME="Lab075_local_variable Coverage Results" MODIFIED="1762188733065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_09_Function_scopes" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_104_SET_P3.coverage" NAME="Lab_104_SET_P3 Coverage Results" MODIFIED="1762794314093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_15_Set" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_062_Example_Function.coverage" NAME="Lab_062_Example_Function Coverage Results" MODIFIED="1761938779120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
