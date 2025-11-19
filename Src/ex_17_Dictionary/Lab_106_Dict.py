@@ -1,5 +1,5 @@
 my_dist= {
-    "name": "Prashant",
+    "name":'prashant',
     "age": 35,
     "role": "SDET",
     "exp" : 3
