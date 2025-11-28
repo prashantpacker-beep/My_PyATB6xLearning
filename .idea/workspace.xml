@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="20th Nov 2025--New files are added">
+    <list default="true" id="a128f35c-d89f-41dc-89dc-a431c6d32b97" name="Changes" comment="22th Nov 2025--New files are added">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/06_Polymorphism/02_Method Overloading/Lab_142_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/06_Polymorphism/02_Method Overloading/Lab_143_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/06_Polymorphism/02_Method Overloading/Lab_143_MO_EX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/06_Polymorphism/02_Method Overloading/Lab_144_MO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/07_Abstraction/Lab_145_AB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/07_Abstraction/Lab_146_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/07_Abstraction/Lab_147_REAL_AUTOMATION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/07_Abstraction/Lab_148_Real_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/07_Abstraction/Lab_149_ABC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/08_Static/Lab_150_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/08_Static/Lab_151_Static_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/08_Static/Lab_152_Static_All.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/08_Static/Lab_153_Static_Non_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Src/ex_18_OOps_Python/08_Static/Lab_154_Real_Example_static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/Task_026_TestExecution_counter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,6 +251,7 @@
     "Python.Task_023_Person.executor": "Run",
     "Python.Task_024_Claculator_PC.executor": "Run",
     "Python.Task_025_Inheritance.executor": "Run",
+    "Python.Task_026_TestExecution_counter.executor": "Run",
     "Python.Task_13.executor": "Run",
     "Python.task_012.executor": "Run",
     "Python.test1.executor": "Run",
@@ -372,7 +357,7 @@
       <workItem from="1763572000107" duration="11148000" />
       <workItem from="1763721491097" duration="1288000" />
       <workItem from="1763744597434" duration="6292000" />
-      <workItem from="1763991142260" duration="7464000" />
+      <workItem from="1763991142260" duration="7714000" />
     </task>
     <task id="LOCAL-00001" summary="New Files are added">
       <option name="closed" value="true" />
@@ -534,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763750558503</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="22th Nov 2025--New files are added">
+      <option name="closed" value="true" />
+      <created>1763998953723</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1763998953723</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +561,8 @@
     <MESSAGE value="13th Nov 2025--New files are added" />
     <MESSAGE value="18th Nov 2025--New files are added" />
     <MESSAGE value="20th Nov 2025--New files are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th Nov 2025--New files are added" />
+    <MESSAGE value="22th Nov 2025--New files are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="22th Nov 2025--New files are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -768,6 +762,7 @@
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_065_Function_Defaut_parameter.coverage" NAME="Lab_065_Function_Defaut_parameter Coverage Results" MODIFIED="1761940402208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_073_Real_Args.coverage" NAME="Lab_073_Real_Args Coverage Results" MODIFIED="1762186795538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_119_Class_Dog_const.coverage" NAME="Lab_119_Class_Dog_const Coverage Results" MODIFIED="1763139474816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_18_OOps_Python/02_Constructor" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Task_026_TestExecution_counter.coverage" NAME="Task_026_TestExecution_counter Coverage Results" MODIFIED="1763998925760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$LabQ01.coverage" NAME="LabQ01 Coverage Results" MODIFIED="1761939013869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_08_Functions" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_149_ABC.coverage" NAME="Lab_149_ABC Coverage Results" MODIFIED="1763995765637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_18_OOps_Python/07_Abstraction" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab_027_String_Single_Double_diff.coverage" NAME="Lab_027_String_Single_Double_diff Coverage Results" MODIFIED="1760375313910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Src/ex_03_Literals_Variables" />
