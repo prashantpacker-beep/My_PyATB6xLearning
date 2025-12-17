@@ -1,0 +1,4 @@
+Token =  b2617e601c2e952
+Booking ID =  1755
+Booking id for update:  1755
+{'firstname': 'Prashant', 'lastname': 'Browne', 'totalprice': 250, 'depositpaid': True, 'bookingdates': {'checkin': '2025-01-01', 'checkout': '2025-12-01'}, 'additionalneeds': 'Breakfast & Dinner '}
